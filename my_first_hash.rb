@@ -2,8 +2,7 @@
 def my_hash
   my_hash = {"my name" => "Herman Melville", "my age" => "78"} #use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 end
-`
-`
+
 def shipping_manifest
   shipping_manifest = { "paintings" => "oil paintings", "vases" => "porcelain vases", "corsets" => "whale bone corsets"}
       # set a variable called `the_manifest`, equal to a hash
