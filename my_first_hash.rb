@@ -1,7 +1,6 @@
 
 def my_hash
-  Hash.new
-#  Hash = { "my name" => "Herman Melville", "my age" => "78"} #use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
+  Hash = { "my name" => "Herman Melville", "my age" => "78"} #use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 end
 
 
